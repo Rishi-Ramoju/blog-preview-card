@@ -18,8 +18,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-HtZhpPfHfR)
+- Live Site URL: [live site URL](https://rishi-ramoju.github.io/blog-preview-card/)
 
 ### Built with
 
